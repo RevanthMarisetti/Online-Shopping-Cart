@@ -1,0 +1,13 @@
+.button-row button {
+  display: table-cell;
+  margin-right: 10px;
+}
+
+
+.row-align-center{
+  padding-top: 5%;
+}
+
+.ee{
+  padding-left: 75%;
+}
